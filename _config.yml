@@ -1,7 +1,7 @@
-name: "Jekyll true minimal theme"
+name: "Robin Jenkins"
 description: "Lightweight theme"
 
-url: '' 
+url: 'https://robinrj.github.io' 
 baseurl: ''
 
 markdown: kramdown
