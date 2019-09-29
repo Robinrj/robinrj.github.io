@@ -1,7 +1,7 @@
 name: "Robin Jenkins"
 description: "semanticist, logic and language"
 
-url: 'robinjenkins.net' 
+url: '' 
 baseurl: ''
 
 markdown: kramdown
