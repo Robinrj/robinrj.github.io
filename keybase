@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/robinj
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://robinjenkins.net
+  * I am robinj (https://keybase.io/robinj) on keybase.
+  * I have a public key ASDgXZdRBUjBwXMR95xea2DbZx6aq0rV0tnBciiRNWst0go
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01209b6e8d4b3279122f52c7d501236647d6f7f0f7930fcf0b5c2e7c939ea22acea00a",
+      "host": "keybase.io",
+      "kid": "0120e05d97510548c1c17311f79c5e6b60db671e9aab4ad5d2d9c1722891356b2dd20a",
+      "uid": "50bbcd218ec9cb0e0f61b4c8ebf01419",
+      "username": "robinj"
+    },
+    "merkle_root": {
+      "ctime": 1569787144,
+      "hash": "eba520ba215be61a66c22cefdef1b93be56e05c0c519f8662d64a5904ae5ec2cb02726b1bf3aa8695328e7d929dfc9df7daef9288984ecffe9946fe052293484",
+      "hash_meta": "c52d6a33db99936e72be484383c334c738d30f6347bd22d43983aeecbb820cc1",
+      "seqno": 7800240
+    },
+    "service": {
+      "entropy": "1J3WeYkSr9ity6y+Ezp24UTb",
+      "hostname": "robinjenkins.net",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.5.0"
+  },
+  "ctime": 1569787160,
+  "expire_in": 504576000,
+  "prev": "df5215f1f7f952b8ed9894bf24a1507aa8c9c08cefeac82badc3db666049249f",
+  "seqno": 22,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg4F2XUQVIwcFzEfecXmtg22cemqtK1dLZwXIokTVrLdIKp3BheWxvYWTESpcCFsQg31IV8ff5UrjtmJS/JKFQeqjJwIzv6sgrrcPbZmBJJJ/EIIAmOAsGywQx1fhJci7IndM2s1z9kalan11wUxH4aDtIAgHCo3NpZ8RAeqYrAowPLDuFE/Sk5Yx3mYd+/Nqu7BrPhdQ7NNFxJKCpFFtfJdK/HEXyJwOS1I9f3aOCNUx1C/orNoGuDhdUDqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIOPMnBtKEP3sp/Wr3UwDMOei++D7/2dAsSkJI75qgdHno3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/robinj
+
+==================================================================
