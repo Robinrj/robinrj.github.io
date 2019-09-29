@@ -26,3 +26,8 @@ sass:
     style: :compressed
     sass_dir: assets/css/
 
+    # Google Analytics
+google_analytics: UA—148957384-1
+
+
+
