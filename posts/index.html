@@ -1,16 +1,19 @@
+---
 layout: default
+title: Musings
 ---
 
+<h2>Musings</h2>
+<p><small>Short, dated thoughts. See the <a href='{{ site.url }}/archive/'>archive</a> for a full list.</small></p>
+
 {% for post in paginator.posts %}
-<section>
-  <h2>
-    <a href='{{ site.url }}{{ post.url }}' title='{{ post.title }}'>
-      {{ post.title }}
-    </a>
-  </h2>
-  
-  <p>{{ post.excerpt | strip_html | truncate: 250 }}</p>
-</section>       
+<article>
+    <h3><a href='{{ site.url }}{{ post.url }}' title='{{ post.title }}'>{{ post.title }}</a></h3>
+    <p><small>{{ post.date | date: '%B %-d, %Y' }}</small></p>
+
+    {{ post.content }}
+</article>
+<hr>
 {% endfor %}
 
 {% if paginator.previous_page %}
